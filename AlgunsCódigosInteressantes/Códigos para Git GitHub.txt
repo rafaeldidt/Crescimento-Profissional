@@ -3,3 +3,5 @@ DIR - Para localização
 MKDIR - Para novo diretório
 
 GIT ADD * - Para adicionar TODOS
+
+GIT STATUS - Status dos arquivos
