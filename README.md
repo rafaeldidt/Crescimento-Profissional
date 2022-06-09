@@ -1,4 +1,4 @@
-#  Projeto  e desafio sobre Git / GitHub da @DioInnovationOne #
+#  Projetos  e desafios | Estudando com @DioInnovationOne #
 Começando semeando a semente
 
 
