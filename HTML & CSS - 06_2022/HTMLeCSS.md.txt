@@ -1,2 +1,17 @@
 <h1> APRENDENDO COM HTML - LUCAS VILABOIM </h1>
 
+
+
+## O HTML ##
+
+
+
+- Base / estrutura para HTML
+- Utilizar "index.html"
+- Meta Charset
+
+​    
+
+
+​    
+
