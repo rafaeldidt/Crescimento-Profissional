@@ -14,6 +14,17 @@
 
 
 
+# ESTRUTURA BÁSICA #
+
+- Section - Genérica
+- Footer - Baixo
+- Header - Cima
+- H1, H2, H3....... Utilizar conforme bem entender.
+- Article - Conteúdo relevante
+- Aside - Biografia, conteúdos relacionados
+
+
+
 ​    
 
 
