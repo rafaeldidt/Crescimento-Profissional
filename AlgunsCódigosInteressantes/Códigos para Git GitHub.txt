@@ -5,3 +5,7 @@ MKDIR - Para novo diretório
 GIT ADD * - Para adicionar TODOS
 
 GIT STATUS - Status dos arquivos
+
+GIT COMMIT -M " (status atual) "
+
+GIT PUSH 
