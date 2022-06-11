@@ -12,8 +12,6 @@
 
 
 
-
-
 # ESTRUTURA BÁSICA #
 
 - Section - Genérica
@@ -22,6 +20,23 @@
 - H1, H2, H3....... Utilizar conforme bem entender.
 - Article - Conteúdo relevante
 - Aside - Biografia, conteúdos relacionados
+- < p > para Parágrafo, textos...
+- < a > LINK < a > < a href= utiliza o TELL e MAILTO: 
+
+  Para abri numa nova aba < a taget="_blank" > Link < /a > 
+
+ # IMAGENS #
+
+- < img SRC= " CAMINHO DA IMAGEM" >
+- < img ALT= "LEITORES DE TELA PARA DIZER O QUE SIGNIFCA A IMAGEM"
+
+
+
+
+
+
+
+
 
 
 
