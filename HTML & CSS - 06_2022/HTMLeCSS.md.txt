@@ -30,6 +30,38 @@
 - < img SRC= " CAMINHO DA IMAGEM" >
 - < img ALT= "LEITORES DE TELA PARA DIZER O QUE SIGNIFCA A IMAGEM"
 
+# LISTAS #
+
+- < ul > não tem tanta importância da ordem
+- < ol > precisa
+- < li > ele <b>SE faz necessário</b> para a LISTA
+
+
+
+
+
+
+
+
+
+# CSS #
+
+- Seletores: são os elementos de HTML
+
+- Declarações: São ad denifições daqueles seletores { color, font-size, etc}
+
+- Classe: Precedida por um PONTO .header
+
+- ID: Precedido por um hash #header
+
+- ## Devemos sempre linkar o style.css ao index.html ##
+
+  < link ref="stylesheet" href="style.css"
+
+- ##   ##
+
+- 
+
 
 
 
