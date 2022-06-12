@@ -1,0 +1,81 @@
+<h1> APRENDENDO COM HTML - LUCAS VILABOIM </h1>
+
+
+
+## O HTML ##
+
+
+
+- Base / estrutura para HTML
+- Utilizar "index.html"
+- Meta Charset
+
+
+
+# ESTRUTURA BÁSICA #
+
+- Section - Genérica
+- Footer - Baixo
+- Header - Cima
+- H1, H2, H3....... Utilizar conforme bem entender.
+- Article - Conteúdo relevante
+- Aside - Biografia, conteúdos relacionados
+- < p > para Parágrafo, textos...
+- < a > LINK < a > < a href= utiliza o TELL e MAILTO: 
+
+  Para abri numa nova aba < a taget="_blank" > Link < /a > 
+
+ # IMAGENS #
+
+- < img SRC= " CAMINHO DA IMAGEM" >
+- < img ALT= "LEITORES DE TELA PARA DIZER O QUE SIGNIFCA A IMAGEM"
+
+# LISTAS #
+
+- < ul > não tem tanta importância da ordem
+- < ol > precisa
+- < li > ele <b>SE faz necessário</b> para a LISTA
+
+
+
+
+
+
+
+
+
+# CSS #
+
+- Seletores: são os elementos de HTML
+
+- Declarações: São ad denifições daqueles seletores { color, font-size, etc}
+
+- Classe: Precedida por um PONTO .header
+
+- ID: Precedido por um hash #header
+
+- ## Devemos sempre linkar o style.css ao index.html ##
+
+  < link ref="stylesheet" href="style.css"
+
+  ##  BORDER ##
+
+  
+
+  ## ![image-20220612190355402](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20220612190355402.png)  ##
+
+
+
+
+
+
+
+
+
+
+
+​    
+
+
+​    
+

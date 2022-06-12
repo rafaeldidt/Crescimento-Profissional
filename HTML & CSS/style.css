@@ -1,0 +1,31 @@
+
+#contato {
+	font-size: 16px;
+	color: darkblue;
+	font-family: monospace;
+}
+
+#title {
+	font-size: 40px;
+	color: darkblue;
+	font-family: verdana;
+	text-align: center;
+}
+
+.texto_pagina, .texto_2 {
+
+	font-size: 25px;
+	font-family: monospace;
+	color: black;
+}
+
+.LOGO {
+
+	padding-left: 23cm;
+	width: 100px;
+	height: 100px;
+
+}
+
+
+
