@@ -25,8 +25,38 @@
 	width: 100px;
 	height: 100px;
 	
+}
+
+.cont{
+	background-color: yellow;
+	height: 400px;
+	display: flex;
+	flex-direction: row;
+	color: white;
+
 
 }
 
 
+.r1 {
+	
+	background-color: black;
+	
+}
 
+.r2 {
+	
+	background-color: green;
+
+}
+
+.r3 {
+	
+	background-color: purple;
+
+}
+
+.r {
+	width: 150px;
+
+}
