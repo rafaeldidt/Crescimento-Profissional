@@ -4,6 +4,10 @@ Foi projetado com modelo layout unidimensional, para oferecer ditribuição de e
 
 - Flex container ENVOLVE os demais itens
 
- - 
+ 
 
-- 
+- Flex direction
+   *Row > sentido contínuo
+   * Row-reverse > sentido contrário 
+   * Comumn: de cima para baixo, em coluna  
+   * Column-reverse: inversão
